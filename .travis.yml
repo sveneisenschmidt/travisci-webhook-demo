@@ -1,0 +1,3 @@
+notifications:
+  webhooks:
+    - http://aede482b.ngrok.io/webhook/incoming/travisci/
