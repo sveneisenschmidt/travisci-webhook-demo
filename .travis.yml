@@ -1,5 +1,9 @@
 language: generic
+
 sudo: false
+
+git:
+  depth: false
 
 notifications:
   webhooks:
